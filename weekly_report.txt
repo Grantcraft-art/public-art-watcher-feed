@@ -7,7 +7,7 @@ Upcoming opportunities: 0
 Expired or completed opportunities: 12
 Possible new monitored items: 0
 New opportunities: 0
-Changed opportunities: 1
+Changed opportunities: 0
 Errors: 0
 
 ------------------------------------------------------------

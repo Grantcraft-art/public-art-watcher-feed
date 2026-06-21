@@ -1,5 +1,5 @@
 ============================================================
-GRANTCRAFT.ART PUBLIC ART WATCHER
+PUBLIC ART WATCHER
 ============================================================
 
 Open opportunities: 24
@@ -16,7 +16,7 @@ Errors: 0
 Source: Publicart.fi — Finland public art calendar
 Country: Finland
 Type: open_call_for_portfolios
-Deadline: 2026-08-15 (56 days left)
+Deadline: 2026-08-15 (55 days left)
 Budget: 50 000 EUR
 Contact email: kati.juurikka@sastamala.fi
 Change status: unchanged
@@ -30,7 +30,7 @@ https://www.julkinentaide.fi/fi/avoin-portfoliohaku-julkinen-veistos-sastamalan-
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Open invitation
-Deadline: 2026-08-15 (56 days left)
+Deadline: 2026-08-15 (55 days left)
 Budget: 100 000 NOK
 County: Vestland
 Announcer: Fjordane folkehøgskule
@@ -44,28 +44,12 @@ Attachments:
 - Invitasjon og bilder til mulige steder til kunst: https://www.koro.no/content/uploads/2026/06/Sophus-Lie-åpen-invitasjon.pdf
 
 ------------------------------------------------------------
-3. Intresseanmälan Högskolan i Borås
-
-Source: Statens konstråd
-Country: Sweden
-Type: Public art opportunity
-Deadline: 2026-08-17 (58 days left)
-Budget: 3 000 000 SEK
-Sketch fee: 120 000 SEK
-
-URL:
-https://statenskonstrad.se/om-oss/uppdrag-till-konstnarer/upphandlingar/
-
-Procurement URL:
-https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
-
-------------------------------------------------------------
-4. Kunstlandskap MIDT - Fjord kommune søker kunstkonsulent
+3. Kunstlandskap MIDT - Fjord kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 2 000 000 NOK
 County: Møre og Romsdal
 Announcer: Fjord kommune
@@ -79,12 +63,12 @@ Attachments:
 - Fullstendig utlysingstekst og meir informasjon om oppdraget: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-5.pdf
 
 ------------------------------------------------------------
-5. Kunstlandskap MIDT - Frøya kommune søker Kunstkonsulent
+4. Kunstlandskap MIDT - Frøya kommune søker Kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 2 000 000 NOK
 County: Trøndelag
 Announcer: Frøya kommune
@@ -99,12 +83,12 @@ Attachments:
 - Prosjektbeskrivelse Frøya kommune: https://www.koro.no/content/uploads/2026/06/PROSJEKTBESKRIVELSE-Kunstlandskap-Midt-Frøya.pdf
 
 ------------------------------------------------------------
-6. Kunstlandskap MIDT - Gjemnes kommune søker kunstkonsulent
+5. Kunstlandskap MIDT - Gjemnes kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Gjemnes kommune
@@ -118,12 +102,12 @@ Attachments:
 - KUNSTLANDSKAP MIDT: Fullstendig utlysning og informasjon om oppdraget: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-1-3.pdf
 
 ------------------------------------------------------------
-7. Kunstlandskap MIDT - Inderøy kommune søker kunstkonsulent
+6. Kunstlandskap MIDT - Inderøy kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Inderøy kommune
@@ -137,12 +121,12 @@ Attachments:
 - Beskrivelse av oppdrag: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-15.pdf
 
 ------------------------------------------------------------
-8. Kunstlandskap MIDT - Kunstkonsulent søkes til Averøy kommune
+7. Kunstlandskap MIDT - Kunstkonsulent søkes til Averøy kommune
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Averøy kommune
@@ -157,12 +141,12 @@ Attachments:
 - Bildeglimt: https://www.koro.no/content/uploads/2026/06/Averøy-Bildeglimt-.pdf
 
 ------------------------------------------------------------
-9. Kunstlandskap MIDT - Kunstkonsulent søkes til Leka kommune
+8. Kunstlandskap MIDT - Kunstkonsulent søkes til Leka kommune
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Leka kommune
@@ -176,12 +160,12 @@ Attachments:
 - Beskrivelse av oppdrag: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-13.pdf
 
 ------------------------------------------------------------
-10. Kunstlandskap MIDT - Kunstkonsulent søkes til Ørland kommune
+9. Kunstlandskap MIDT - Kunstkonsulent søkes til Ørland kommune
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 2 000 000 NOK
 County: Trøndelag
 Announcer: Ørland kommune
@@ -198,12 +182,12 @@ Attachments:
 - Austråttborgen er en herregård i Ørland kjent som sete for flere personer som har spilt en rolle i norsk historie siden 1000-tallet.: https://www.koro.no/content/uploads/2026/06/Foto-Rua-_Austråttborgen.jpg
 
 ------------------------------------------------------------
-11. Kunstlandskap MIDT - Melhus kommune søker kunstkonsulent
+10. Kunstlandskap MIDT - Melhus kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 2 000 000 NOK
 County: Trøndelag
 Announcer: Melhus kommune
@@ -218,12 +202,12 @@ Attachments:
 - Prosjektbeskrivelse Melhus kommune: https://www.koro.no/content/uploads/2026/06/Prosjektbeskrivelse-Melhus-kommune-Kunstlandskap-Midt-1.pdf
 
 ------------------------------------------------------------
-12. Kunstlandskap MIDT - Molde kommune søker kunstkonsulent
+11. Kunstlandskap MIDT - Molde kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 3 000 000 NOK
 County: Møre og Romsdal
 Announcer: Molde kommune
@@ -237,12 +221,12 @@ Attachments:
 - Detaljert prosjektskildring: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-3-1.pdf
 
 ------------------------------------------------------------
-13. Kunstlandskap MIDT - Namsos kommune søker kunstkonsulent
+12. Kunstlandskap MIDT - Namsos kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 3 000 000 NOK
 County: Trøndelag
 Announcer: Namsos kommune
@@ -256,12 +240,12 @@ Attachments:
 - Beskrivelse oppdrag: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-3.pdf
 
 ------------------------------------------------------------
-14. Kunstlandskap MIDT - Selbu kommune søker kunstkonsulent
+13. Kunstlandskap MIDT - Selbu kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Selbu kommune
@@ -280,12 +264,12 @@ Attachments:
 - Plakat Selbustrikking: https://www.koro.no/content/uploads/2026/06/Original-Selbu-plakat.jpg
 
 ------------------------------------------------------------
-15. Kunstlandskap MIDT - Smøla søker kunstkonsulent
+14. Kunstlandskap MIDT - Smøla søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Smøla Kommune, Smøla Nærings- og Kultursenter KF
@@ -299,12 +283,12 @@ Attachments:
 - Felles utlysning: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-4.pdf
 
 ------------------------------------------------------------
-16. Kunstlandskap MIDT - Stjørdal kommune søker kunstkonsulent
+15. Kunstlandskap MIDT - Stjørdal kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 3 000 000 NOK
 County: Trøndelag
 Announcer: Stjørdal kommune
@@ -319,12 +303,12 @@ Attachments:
 - Stjørdal kommune-søker-kunstkonsulent: https://www.koro.no/content/uploads/2026/06/Utlysning-kunstkonsulent-Stjørdal-kommune-juni-2026.pdf
 
 ------------------------------------------------------------
-17. Kunstlandskap MIDT - Surnadal kommune søker kunstkonsulent
+16. Kunstlandskap MIDT - Surnadal kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Surnadal kommune
@@ -338,12 +322,12 @@ Attachments:
 - Beskriving av oppdraget som kunstkonsulent: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-2.pdf
 
 ------------------------------------------------------------
-18. Kunstlandskap MIDT - Ulstein og Herøy kommunar søkjer kunstkonsulent
+17. Kunstlandskap MIDT - Ulstein og Herøy kommunar søkjer kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 3 000 000 NOK
 County: Møre og Romsdal
 Announcer: Ulstein og Herøy kommunar
@@ -361,12 +345,12 @@ Attachments:
 - Bilde Ulsteinvik sentrum ovanfrå (Foto: TK Media): https://www.koro.no/content/uploads/2026/06/Ulsteinvik-by-night-TK-Media.jpg
 
 ------------------------------------------------------------
-19. Kunstlandskap MIDT - Verdal kommune søker kunstkonsulent
+18. Kunstlandskap MIDT - Verdal kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 3 000 000 NOK
 County: Trøndelag
 Announcer: Verdal kommune
@@ -381,12 +365,12 @@ Attachments:
 - Utlysning og nærmere informasjon om oppdraget: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-11.pdf
 
 ------------------------------------------------------------
-20. Kunstlandskap MIDT - Åfjord kommune søker kunstkonsulent
+19. Kunstlandskap MIDT - Åfjord kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Åfjord kommune
@@ -400,12 +384,12 @@ Attachments:
 - Kunstlandskap MIDT lyser ut 21 kunstkonsulentoppdrag: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-7.pdf
 
 ------------------------------------------------------------
-21. Kunstlandskap MIDT - Ålesund kommune søker kunstkonsulent
+20. Kunstlandskap MIDT - Ålesund kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 3 000 000 NOK
 County: Møre og Romsdal
 Announcer: Ålesund kommune, verksemd kultur og fritid
@@ -419,12 +403,12 @@ Attachments:
 - Fullstendig utlysing og nærare informasjon om oppdraget: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-1-2.pdf
 
 ------------------------------------------------------------
-22. Kunstlandskap MIDT- Snåsa kommune søker Kunstkonsulent
+21. Kunstlandskap MIDT- Snåsa kommune søker Kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Hanne-Lena Wilks
@@ -438,12 +422,12 @@ Attachments:
 - Kunstlandskap MIDT lyser ut 21 kunstkonsulentoppdrag: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-1-1.pdf
 
 ------------------------------------------------------------
-23. Kunstlandskap MIDT- Trondheim kommune søker kunstfaglig prosjektledelse
+22. Kunstlandskap MIDT- Trondheim kommune søker kunstfaglig prosjektledelse
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Other
-Deadline: 2026-09-03 (75 days left)
+Deadline: 2026-09-03 (74 days left)
 Budget: 5 000 000 NOK
 County: Trøndelag
 Announcer: Trondheim kommune
@@ -458,12 +442,28 @@ Attachments:
 - Fullstendig utlysing Kunstlandskap MIDT: https://www.koro.no/content/uploads/2026/06/KUNSTLANDSKAP-MIDT-søker-kunstkonsulenter-2026-14.pdf
 
 ------------------------------------------------------------
+23. Intresseanmälan Högskolan i Borås
+
+Source: Statens konstråd
+Country: Sweden
+Type: Public art opportunity
+Deadline: 2026-08-17 (57 days left)
+Budget: 3 000 000 SEK
+Sketch fee: 120 000 SEK
+
+URL:
+https://statenskonstrad.se/om-oss/uppdrag-till-konstnarer/upphandlingar/
+
+Procurement URL:
+https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
+
+------------------------------------------------------------
 24. Nytt offentligt konstverk på Skeppsholmen i Amiralitetshusets utemiljö
 
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-09-10 (82 days left)
+Deadline: 2026-09-10 (81 days left)
 Budget: 4 000 000 SEK
 Sketch fee: 120 000 SEK
 

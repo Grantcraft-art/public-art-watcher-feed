@@ -15,7 +15,7 @@ Errors: 0
 
 Source: Publicart.fi — Finland public art calendar
 Country: Finland
-Type: open_call_for_portfolios
+Type: Open call for portfolios
 Deadline: 2026-08-15 (55 days left)
 Budget: 50 000 EUR
 Contact email: kati.juurikka@sastamala.fi

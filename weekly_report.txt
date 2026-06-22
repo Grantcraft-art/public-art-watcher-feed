@@ -16,7 +16,7 @@ Errors: 0
 Source: Publicart.fi — Finland public art calendar
 Country: Finland
 Type: Open call for portfolios
-Deadline: 2026-08-15 (55 days left)
+Deadline: 2026-08-15 (54 days left)
 Budget: 50 000 EUR
 Contact email: kati.juurikka@sastamala.fi
 Change status: unchanged
@@ -30,7 +30,7 @@ https://www.julkinentaide.fi/fi/avoin-portfoliohaku-julkinen-veistos-sastamalan-
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Open invitation
-Deadline: 2026-08-15 (55 days left)
+Deadline: 2026-08-15 (54 days left)
 Budget: 100 000 NOK
 County: Vestland
 Announcer: Fjordane folkehøgskule
@@ -49,7 +49,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 2 000 000 NOK
 County: Møre og Romsdal
 Announcer: Fjord kommune
@@ -68,7 +68,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 2 000 000 NOK
 County: Trøndelag
 Announcer: Frøya kommune
@@ -88,7 +88,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Gjemnes kommune
@@ -107,7 +107,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Inderøy kommune
@@ -126,7 +126,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Averøy kommune
@@ -146,7 +146,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Leka kommune
@@ -165,7 +165,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 2 000 000 NOK
 County: Trøndelag
 Announcer: Ørland kommune
@@ -187,7 +187,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 2 000 000 NOK
 County: Trøndelag
 Announcer: Melhus kommune
@@ -207,7 +207,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 3 000 000 NOK
 County: Møre og Romsdal
 Announcer: Molde kommune
@@ -226,7 +226,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 3 000 000 NOK
 County: Trøndelag
 Announcer: Namsos kommune
@@ -245,7 +245,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Selbu kommune
@@ -269,7 +269,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Smøla Kommune, Smøla Nærings- og Kultursenter KF
@@ -288,7 +288,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 3 000 000 NOK
 County: Trøndelag
 Announcer: Stjørdal kommune
@@ -308,7 +308,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Møre og Romsdal
 Announcer: Surnadal kommune
@@ -327,7 +327,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 3 000 000 NOK
 County: Møre og Romsdal
 Announcer: Ulstein og Herøy kommunar
@@ -350,7 +350,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 3 000 000 NOK
 County: Trøndelag
 Announcer: Verdal kommune
@@ -370,7 +370,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Åfjord kommune
@@ -389,7 +389,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 3 000 000 NOK
 County: Møre og Romsdal
 Announcer: Ålesund kommune, verksemd kultur og fritid
@@ -408,7 +408,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 1 500 000 NOK
 County: Trøndelag
 Announcer: Hanne-Lena Wilks
@@ -427,7 +427,7 @@ Attachments:
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Other
-Deadline: 2026-09-03 (74 days left)
+Deadline: 2026-09-03 (73 days left)
 Budget: 5 000 000 NOK
 County: Trøndelag
 Announcer: Trondheim kommune
@@ -447,7 +447,7 @@ Attachments:
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-08-17 (57 days left)
+Deadline: 2026-08-17 (56 days left)
 Budget: 3 000 000 SEK
 Sketch fee: 120 000 SEK
 
@@ -463,7 +463,7 @@ https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-09-10 (81 days left)
+Deadline: 2026-09-10 (80 days left)
 Budget: 4 000 000 SEK
 Sketch fee: 120 000 SEK
 

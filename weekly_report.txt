@@ -5,7 +5,7 @@ PUBLIC ART WATCHER
 Open opportunities: 3
 Upcoming opportunities: 0
 Expired or completed opportunities: 4
-Possible new monitored items: 1
+Possible new monitored items: 0
 New opportunities: 0
 Changed opportunities: 0
 Errors: 0
@@ -16,7 +16,7 @@ Errors: 0
 Source: Publicart.fi — Finland public art calendar
 Country: Finland
 Type: Open call for portfolios
-Deadline: 2026-08-15 (40 days left)
+Deadline: 2026-08-15 (33 days left)
 Budget: 50 000 EUR
 Contact email: kati.juurikka@sastamala.fi
 Change status: unchanged
@@ -30,7 +30,7 @@ https://www.julkinentaide.fi/fi/avoin-portfoliohaku-julkinen-veistos-sastamalan-
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-08-17 (42 days left)
+Deadline: 2026-08-17 (35 days left)
 Budget: 3 000 000 SEK
 Sketch fee: 120 000 SEK
 
@@ -46,7 +46,7 @@ https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-09-10 (66 days left)
+Deadline: 2026-09-10 (59 days left)
 Budget: 4 000 000 SEK
 Sketch fee: 120 000 SEK
 
@@ -55,23 +55,6 @@ https://statenskonstrad.se/om-oss/uppdrag-till-konstnarer/upphandlingar/
 
 Procurement URL:
 https://tendsign.com/login.aspx?URL=s_meformsnotice.aspx%3fMeFormsNoticeId%3d93252
-
-
-============================================================
-POSSIBLE NEW OPPORTUNITIES DETECTED
-============================================================
-
-These items appeared on monitored official source pages, but the watcher could not yet parse them as fully verified opportunities. Treat them as leads and verify on the official source page.
-
-------------------------------------------------------------
-1. Studio Kapellet skapar konstnärlig gestaltning för Ardennerns förskola (30/6)
-
-Source: Malmö Konst — Open Calls
-Status: needs_review
-Deadline: Not parsed
-
-URL:
-https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-06-30-Studio-Kapellet-skapar-konstnarlig-gestaltning-for-Ardennerns-forskola.html
 
 ============================================================
 

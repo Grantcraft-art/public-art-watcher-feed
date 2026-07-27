@@ -16,7 +16,7 @@ Errors: 0
 Source: Publicart.fi — Finland public art calendar
 Country: Finland
 Type: Open call for portfolios
-Deadline: 2026-08-15 (26 days left)
+Deadline: 2026-08-15 (19 days left)
 Budget: 50 000 EUR
 Contact email: kati.juurikka@sastamala.fi
 Change status: unchanged
@@ -30,7 +30,7 @@ https://www.julkinentaide.fi/fi/avoin-portfoliohaku-julkinen-veistos-sastamalan-
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-08-17 (28 days left)
+Deadline: 2026-08-17 (21 days left)
 Budget: 3 000 000 SEK
 Sketch fee: 120 000 SEK
 
@@ -46,7 +46,7 @@ https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-09-10 (52 days left)
+Deadline: 2026-09-10 (45 days left)
 Budget: 4 000 000 SEK
 Sketch fee: 120 000 SEK
 

@@ -2,51 +2,21 @@
 PUBLIC ART WATCHER
 ============================================================
 
-Open opportunities: 3
+Open opportunities: 2
 Upcoming opportunities: 0
-Expired or completed opportunities: 4
-Possible new monitored items: 1
+Expired or completed opportunities: 5
+Possible new monitored items: 0
 New opportunities: 0
 Changed opportunities: 0
 Errors: 0
 
 ------------------------------------------------------------
-1. Avoin portfoliohaku: Julkinen veistos Sastamalan uimahallin pääsisäänkäynnille (haku päättyy 15.8.2026)
-
-Source: Publicart.fi — Finland public art calendar
-Country: Finland
-Type: Open call for portfolios
-Deadline: 2026-08-15 (5 days left)
-Budget: 50 000 EUR
-Contact email: kati.juurikka@sastamala.fi
-Change status: unchanged
-
-URL:
-https://www.julkinentaide.fi/fi/avoin-portfoliohaku-julkinen-veistos-sastamalan-uimahallin-paasisaankaynnille-haku-paattyy-1582026
-
-------------------------------------------------------------
-2. Intresseanmälan Högskolan i Borås
+1. Nytt offentligt konstverk på Skeppsholmen i Amiralitetshusets utemiljö
 
 Source: Statens konstråd
 Country: Sweden
 Type: Public art opportunity
-Deadline: 2026-08-17 (7 days left)
-Budget: 3 000 000 SEK
-Sketch fee: 120 000 SEK
-
-URL:
-https://statenskonstrad.se/om-oss/uppdrag-till-konstnarer/upphandlingar/
-
-Procurement URL:
-https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
-
-------------------------------------------------------------
-3. Nytt offentligt konstverk på Skeppsholmen i Amiralitetshusets utemiljö
-
-Source: Statens konstråd
-Country: Sweden
-Type: Public art opportunity
-Deadline: 2026-09-10 (31 days left)
+Deadline: 2026-09-10 (24 days left)
 Budget: 4 000 000 SEK
 Sketch fee: 120 000 SEK
 
@@ -56,22 +26,21 @@ https://statenskonstrad.se/om-oss/uppdrag-till-konstnarer/upphandlingar/
 Procurement URL:
 https://tendsign.com/login.aspx?URL=s_meformsnotice.aspx%3fMeFormsNoticeId%3d93252
 
-
-============================================================
-POSSIBLE NEW OPPORTUNITIES DETECTED
-============================================================
-
-These items appeared on monitored official source pages, but the watcher could not yet parse them as fully verified opportunities. Treat them as leads and verify on the official source page.
-
 ------------------------------------------------------------
-1. A kassen skapar konstnärlig gestaltning för Dalaplan (10/8)
+2. Intresseanmälan Högskolan i Borås
 
-Source: Malmö Konst — Open Calls
-Status: needs_review
-Deadline: Not parsed
+Source: Statens konstråd
+Country: Sweden
+Type: Public art opportunity
+Deadline: 2026-08-17 (deadline today)
+Budget: 3 000 000 SEK
+Sketch fee: 120 000 SEK
 
 URL:
-https://malmo.se/Aktuellt/Artiklar-Malmo-stad/2026-08-10-A-kassen-skapar-konstnarlig-gestaltning-for-Dalaplan.html
+https://statenskonstrad.se/om-oss/uppdrag-till-konstnarer/upphandlingar/
+
+Procurement URL:
+https://tendsign.com/doc.aspx?MeFormsNoticeID=94752
 
 ============================================================
 

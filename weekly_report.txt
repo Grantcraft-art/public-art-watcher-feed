@@ -2,41 +2,24 @@
 PUBLIC ART WATCHER
 ============================================================
 
-Open opportunities: 26
+Open opportunities: 24
 Upcoming opportunities: 0
-Expired or completed opportunities: 14
-Possible new monitored items: 2
-New opportunities: 29
-Changed opportunities: 0
+Expired or completed opportunities: 15
+Possible new monitored items: 3
+New opportunities: 0
+Changed opportunities: 1
 Errors: 0
 
 ------------------------------------------------------------
-1. Kunstkonsulent for barnehageprosjekter i Oslo
+1. Arena Fredrikstad: Oppdrag for to kunstkonsulenter/kuratorer
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-09-15 (1 day left)
-Budget: 4 000 000 NOK
-Contact email: postmottak@kul.oslo.kommune.no
-Change status: new
-
-URL:
-https://www.offentligkunstoppdrag.no/utlysning/kunstkonsulent-for-barnehageprosjekter-i-oslo/
-
-Application URL:
-mailto:postmottak@kul.oslo.kommune.no?subject=Søknad på: Kunstkonsulent%20for%20barnehageprosjekter%20i%20Oslo
-
-------------------------------------------------------------
-2. Arena Fredrikstad: Oppdrag for to kunstkonsulenter/kuratorer
-
-Source: KORO Oppdragsportal
-Country: Norway
-Type: Art consultant
-Deadline: 2026-10-15 (31 days left)
+Deadline: 2026-10-15 (24 days left)
 Budget: Not listed on source page (NOK)
 Contact email: postmottak@fredrikstad.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/arena-fredrikstad-oppdrag-for-to-kunstkonsulenter-kuratorer/
@@ -45,15 +28,15 @@ Application URL:
 mailto:postmottak@fredrikstad.kommune.no?subject=Søknad på: Arena%20Fredrikstad%3A%20Oppdrag%20for%20to%20kunstkonsulenter%2Fkuratorer&cc=ireost@fredrikstad.kommune.no
 
 ------------------------------------------------------------
-3. Åpen invitasjon til kunstnaren – Meldt din interesse! Kunstprosjekt ved Fjordane folkehøgskule
+2. Åpen invitasjon til kunstnaren – Meldt din interesse! Kunstprosjekt ved Fjordane folkehøgskule
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2027-03-10 (177 days left)
+Deadline: 2027-03-10 (170 days left)
 Budget: Not listed on source page (NOK)
 Contact email: saskia.burleson@fjordane.fhs.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/apen-invitasjon-til-kunstnaren-meldt-din-interesse-kunstprosjekt-ved-fjordane-folkehogskule/
@@ -62,7 +45,7 @@ Application URL:
 mailto:saskia.burleson@fjordane.fhs.no?subject=Søknad på: %C3%85pen%20invitasjon%20til%20kunstnaren%20%E2%80%93%20Meldt%20din%20interesse%21%20Kunstprosjekt%20ved%20Fjordane%20folkeh%C3%B8gskule
 
 ------------------------------------------------------------
-4. Kunstkonsulent for Nye Trudvang skule
+3. Kunstkonsulent for Nye Trudvang skule
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -70,7 +53,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 2 600 000 NOK
 Contact email: petra@kunstsenter.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstkonsulent-for-nye-trudvang-skule/
@@ -79,7 +62,7 @@ Application URL:
 mailto:petra@kunstsenter.no?subject=Søknad på: Kunstkonsulent%20for%20Nye%20Trudvang%20skule
 
 ------------------------------------------------------------
-5. Kunstlandskap MIDT - Frøya kommune søker Kunstkonsulent
+4. Kunstlandskap MIDT - Frøya kommune søker Kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -87,7 +70,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 2 000 000 NOK
 Contact email: postmottak@froya.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-froya-kommune-soker-kunstkonsulent/
@@ -96,7 +79,7 @@ Application URL:
 mailto:postmottak@froya.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Fr%C3%B8ya%20kommune%20s%C3%B8ker%20Kunstkonsulent&cc=frode.larsen@froya.kommune.no
 
 ------------------------------------------------------------
-6. Kunstlandskap MIDT - Gjemnes kommune søker kunstkonsulent
+5. Kunstlandskap MIDT - Gjemnes kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -104,7 +87,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: post@gjemnes.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-gjemnes-kommune-soker-kunstkonsulent/
@@ -113,7 +96,7 @@ Application URL:
 mailto:post@gjemnes.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Gjemnes%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=siri.ohren@gjemnes.kommune.no
 
 ------------------------------------------------------------
-7. Kunstlandskap MIDT - Kunstkonsulent søkes til Leka kommune
+6. Kunstlandskap MIDT - Kunstkonsulent søkes til Leka kommune
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -121,7 +104,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: annirenjamtoy@gmail.com
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-kunstkonsulent-sokes-til-leka-kommune/
@@ -130,7 +113,7 @@ Application URL:
 mailto:annirenjamtoy@gmail.com?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Kunstkonsulent%20s%C3%B8kes%20til%20Leka%20kommune&cc=annirenjamtoy@gmail.com
 
 ------------------------------------------------------------
-8. Kunstlandskap MIDT - Molde kommune søker kunstkonsulent
+7. Kunstlandskap MIDT - Molde kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -138,7 +121,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 3 000 000 NOK
 Contact email: postmottak@molde.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-molde-kommune-soker-kunstkonsulent/
@@ -147,7 +130,7 @@ Application URL:
 mailto:postmottak@molde.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Molde%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=astrid.drejer@molde.kommune.no
 
 ------------------------------------------------------------
-9. Kunstlandskap MIDT - Namsos kommune søker kunstkonsulent
+8. Kunstlandskap MIDT - Namsos kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -155,7 +138,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 3 000 000 NOK
 Contact email: postmottak@namsos.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-namsos-kommune-soker-kunstkonsulent/
@@ -164,7 +147,7 @@ Application URL:
 mailto:postmottak@namsos.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Namsos%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=gudrun.flatebo@namsos.kommune.no
 
 ------------------------------------------------------------
-10. Kunstlandskap MIDT - Selbu kommune søker kunstkonsulent
+9. Kunstlandskap MIDT - Selbu kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -172,7 +155,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: Ivar.Aas@selbu.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-selbu-kommune-soker-kunstkonsulent/
@@ -181,7 +164,7 @@ Application URL:
 mailto:Ivar.Aas@selbu.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Selbu%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=Mikal.Mo@selbu.kommune.no
 
 ------------------------------------------------------------
-11. Kunstlandskap MIDT - Smøla søker kunstkonsulent
+10. Kunstlandskap MIDT - Smøla søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -189,7 +172,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: post@smola.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-smola-soker-kunstkonsulent/
@@ -198,7 +181,7 @@ Application URL:
 mailto:post@smola.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Sm%C3%B8la%20s%C3%B8ker%20kunstkonsulent&cc=gunnlaug.kristiansen@smola.kommune.no
 
 ------------------------------------------------------------
-12. Kunstlandskap MIDT - Stjørdal kommune søker kunstkonsulent
+11. Kunstlandskap MIDT - Stjørdal kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -206,7 +189,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 3 000 000 NOK
 Contact email: postmottak@stjordal.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-stjordal-kommune-soker-kunstkonsulent/
@@ -215,7 +198,7 @@ Application URL:
 mailto:postmottak@stjordal.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Stj%C3%B8rdal%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=lisbeth.lein@stjordal.kommune.no
 
 ------------------------------------------------------------
-13. Kunstlandskap MIDT - Surnadal kommune søker kunstkonsulent
+12. Kunstlandskap MIDT - Surnadal kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -223,7 +206,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: Not listed on source page (NOK)
 Contact email: post@surnadal.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-surnadal-kommune-soker-kunstkonsulent/
@@ -232,7 +215,7 @@ Application URL:
 mailto:post@surnadal.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Surnadal%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=lilli.husby@surnadal.kommune.no
 
 ------------------------------------------------------------
-14. Kunstlandskap MIDT - Ulstein og Herøy kommunar søkjer kunstkonsulent
+13. Kunstlandskap MIDT - Ulstein og Herøy kommunar søkjer kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -240,7 +223,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 3 000 000 NOK
 Contact email: rebekka@ulstein-nf.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-ulstein-og-heroy-kommunar-sokjer-kunstkonsulent/
@@ -249,7 +232,7 @@ Application URL:
 mailto:rebekka@ulstein-nf.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20Ulstein%20og%20Her%C3%B8y%20kommunar%20s%C3%B8kjer%20kunstkonsulent&cc=cecilie.roppen@ulstein.kommune.no,janine.muller@heroy.kommune.no,gabrielle.jeanette.valo@heroy.kommune.no
 
 ------------------------------------------------------------
-15. Kunstlandskap MIDT - Verdal kommune søker kunstkonsulent
+14. Kunstlandskap MIDT - Verdal kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -257,7 +240,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: Not listed on source page (NOK)
 Contact email: postmottak@verdal.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-verdal-kommune-soker-kunstkonsulent/
@@ -266,7 +249,7 @@ Application URL:
 mailto:postmottak@verdal.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20%20Verdal%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=marian.lyngsaunet@verdal.kommune.no,ingvild.aasen@verdal.kommune.no
 
 ------------------------------------------------------------
-16. Kunstlandskap MIDT - Åfjord kommune søker kunstkonsulent
+15. Kunstlandskap MIDT - Åfjord kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -274,7 +257,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: postmottak@afjord.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-afjord-kommune-soker-kunstkonsulent/
@@ -283,7 +266,7 @@ Application URL:
 mailto:postmottak@afjord.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20%C3%85fjord%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=job@afjord.kommune.no,kirsten@kirstenbertelsen.com
 
 ------------------------------------------------------------
-17. Kunstlandskap MIDT - Ålesund kommune søker kunstkonsulent
+16. Kunstlandskap MIDT - Ålesund kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -291,7 +274,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 3 000 000 NOK
 Contact email: Alesund.Postmottak@alesund.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-alesund-kommune-soker-kunstkonsulent/
@@ -300,7 +283,7 @@ Application URL:
 mailto:Alesund.Postmottak@alesund.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20-%20%C3%85lesund%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=sissel.lillebo.aarseth@alesund.kommune.no
 
 ------------------------------------------------------------
-18. Kunstlandskap MIDT – Fjord kommune søker kunstkonsulent
+17. Kunstlandskap MIDT – Fjord kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -308,7 +291,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 2 000 000 NOK
 Contact email: post@fjord.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-fjord-kommune-soker-kunstkonsulent/
@@ -317,7 +300,7 @@ Application URL:
 mailto:post@fjord.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20%E2%80%93%20Fjord%20kommune%20s%C3%B8ker%20kunstkonsulent
 
 ------------------------------------------------------------
-19. Kunstlandskap MIDT – Inderøy kommune søker kunstkonsulent
+18. Kunstlandskap MIDT – Inderøy kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -325,7 +308,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: postmottak@inderoy.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-inderoy-kommune-soker-kunstkonsulent/
@@ -334,7 +317,7 @@ Application URL:
 mailto:postmottak@inderoy.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20%E2%80%93%20Inder%C3%B8y%20kommune%20s%C3%B8ker%20kunstkonsulent
 
 ------------------------------------------------------------
-20. Kunstlandskap MIDT – Kunstkonsulent søkes til Ørland kommune
+19. Kunstlandskap MIDT – Kunstkonsulent søkes til Ørland kommune
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -342,7 +325,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 2 000 000 NOK
 Contact email: postmottak@orland.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-kunstkonsulent-sokes-til-orland-kommune/
@@ -351,7 +334,7 @@ Application URL:
 mailto:postmottak@orland.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20%E2%80%93%20Kunstkonsulent%20s%C3%B8kes%20til%20%C3%98rland%20kommune&cc=Merete.Roskaft@orland.kommune.no,bitte.paulsen-aukan@orland.kommune.no,nina.gjolgasaether@orland.kommune.no
 
 ------------------------------------------------------------
-21. Kunstlandskap MIDT – Melhus kommune søker kunstkonsulent
+20. Kunstlandskap MIDT – Melhus kommune søker kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -359,7 +342,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 2 000 000 NOK
 Contact email: anne.sortomme@melhus.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-melhus-kommune-soker-kunstkonsulent/
@@ -368,7 +351,7 @@ Application URL:
 mailto:anne.sortomme@melhus.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT%20%E2%80%93%20Melhus%20kommune%20s%C3%B8ker%20kunstkonsulent&cc=Marit.Synnove.Grendal@melhus.kommune.no
 
 ------------------------------------------------------------
-22. Kunstlandskap MIDT- Snåsa kommune søker Kunstkonsulent
+21. Kunstlandskap MIDT- Snåsa kommune søker Kunstkonsulent
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -376,7 +359,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 1 500 000 NOK
 Contact email: postmottak@snasa.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-snasa-kommune-soker-kunstkonsulent/
@@ -385,7 +368,7 @@ Application URL:
 mailto:postmottak@snasa.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT-%20Sn%C3%A5sa%20kommune%20s%C3%B8ker%20Kunstkonsulent&cc=Hanne-Lena.wilks@snasa.kommune.no
 
 ------------------------------------------------------------
-23. Kunstlandskap MIDT- Trondheim kommune søker kunstfaglig prosjektledelse
+22. Kunstlandskap MIDT- Trondheim kommune søker kunstfaglig prosjektledelse
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -393,7 +376,7 @@ Type: Art consultant
 Deadline: Not parsed (date not parsed)
 Budget: 5 000 000 NOK
 Contact email: bcn@trondheim.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstlandskap-midt-trondheim-kommune-soker-kunstfaglig-prosjektledelse/
@@ -402,7 +385,7 @@ Application URL:
 mailto:bcn@trondheim.kommune.no?subject=Søknad på: Kunstlandskap%20MIDT-%20Trondheim%20kommune%20s%C3%B8ker%20kunstfaglig%20prosjektledelse&cc=ingrid.vold.bjorkamo@trondheim.kommune.no
 
 ------------------------------------------------------------
-24. Utlysning: Kunstnerisk utsmykning – Nye Eide barneskole
+23. Utlysning: Kunstnerisk utsmykning – Nye Eide barneskole
 
 Source: KORO Oppdragsportal
 Country: Norway
@@ -410,7 +393,7 @@ Type: Artist commission
 Deadline: Not parsed (date not parsed)
 Budget: 300 000 NOK
 Contact email: postmottak@hustadvika.kommune.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/utlysning-kunstnerisk-utsmykning-nye-eide-barneskole/
@@ -419,28 +402,12 @@ Application URL:
 mailto:postmottak@hustadvika.kommune.no?subject=Søknad på: Utlysning%3A%20Kunstnerisk%20utsmykning%20%E2%80%93%20Nye%20Eide%20barneskole
 
 ------------------------------------------------------------
-25. Open Call: två konstuppdrag till Hammarkullen i Göteborg
-
-Source: Göteborg Konst — Open Calls
-Country: Sweden
-Type: Public art commission
-Deadline: 2026-09-20 (6 days left)
-Budget: 2 350 000 SEK
-Contact email: goteborgkonst@kultur.goteborg.se
-
-URL:
-https://goteborg.se/wps/portal?uri=gbglnk%3a202511575027&id=a80424a0-b218-4ebf-9046-1263253c2171
-
-Attachments:
-- Inbjudan att lämna anbud Bredfjällsgatan: https://goteborg.se/wps/wcm/connect/dbd6d921-9c9f-4ade-85a4-bfe118b55cbb/Inbjudan+att+l%C3%A4mna+anbud_Bredfj%C3%A4llsgatan+26-533.pdf?MOD=AJPERES
-
-------------------------------------------------------------
-26. Nytt skissuppdrag för konstnärer på Norra bankohuset i Gamla stan i Stockholm
+24. Nytt skissuppdrag för konstnärer på Norra bankohuset i Gamla stan i Stockholm
 
 Source: Statens konstråd
 Country: Sweden
 Type: Sketch assignment
-Deadline: 2026-09-28 (14 days left)
+Deadline: 2026-09-28 (7 days left)
 Budget: 1 500 000 SEK
 Sketch fee: 80 000 SEK
 
@@ -476,6 +443,16 @@ Deadline: Not parsed
 
 URL:
 https://www.kommersannons.se/stockholm/Notice/NoticeOverview.aspx?ProcurementId=55378
+
+------------------------------------------------------------
+3. Ansök här senast 261029
+
+Source: Stockholm konst — Utlysningar
+Status: needs_review
+Deadline: Not parsed
+
+URL:
+https://www.kommersannons.se/stockholm/Notice/QualificationNotice/QualificationDocuments.aspx?ProcurementId=55515
 
 ============================================================
 

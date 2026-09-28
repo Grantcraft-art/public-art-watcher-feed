@@ -5,9 +5,9 @@ PUBLIC ART WATCHER
 Open opportunities: 24
 Upcoming opportunities: 0
 Expired or completed opportunities: 15
-Possible new monitored items: 3
+Possible new monitored items: 2
 New opportunities: 0
-Changed opportunities: 1
+Changed opportunities: 0
 Errors: 0
 
 ------------------------------------------------------------
@@ -16,7 +16,7 @@ Errors: 0
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-10-15 (24 days left)
+Deadline: 2026-10-15 (17 days left)
 Budget: Not listed on source page (NOK)
 Contact email: postmottak@fredrikstad.kommune.no
 Change status: unchanged
@@ -33,7 +33,7 @@ mailto:postmottak@fredrikstad.kommune.no?subject=Søknad på: Arena%20Fredriksta
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2027-03-10 (170 days left)
+Deadline: 2027-03-10 (163 days left)
 Budget: Not listed on source page (NOK)
 Contact email: saskia.burleson@fjordane.fhs.no
 Change status: unchanged
@@ -407,7 +407,7 @@ mailto:postmottak@hustadvika.kommune.no?subject=Søknad på: Utlysning%3A%20Kuns
 Source: Statens konstråd
 Country: Sweden
 Type: Sketch assignment
-Deadline: 2026-09-28 (7 days left)
+Deadline: 2026-09-28 (deadline today)
 Budget: 1 500 000 SEK
 Sketch fee: 80 000 SEK
 
@@ -435,17 +435,7 @@ URL:
 https://malmo.se/Sa-arbetar-vi-med.../Kultur---projekt-och-satsningar/Malmo-konst/Open-calls---konstnarliga-utlysningar/Sodervarn.html
 
 ------------------------------------------------------------
-2. Ansök här senast 260924
-
-Source: Stockholm konst — Utlysningar
-Status: needs_review
-Deadline: Not parsed
-
-URL:
-https://www.kommersannons.se/stockholm/Notice/NoticeOverview.aspx?ProcurementId=55378
-
-------------------------------------------------------------
-3. Ansök här senast 261029
+2. Ansök här senast 261029
 
 Source: Stockholm konst — Utlysningar
 Status: needs_review

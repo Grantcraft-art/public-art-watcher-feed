@@ -6,7 +6,7 @@ Open opportunities: 24
 Upcoming opportunities: 0
 Expired or completed opportunities: 14
 Possible new monitored items: 1
-New opportunities: 1
+New opportunities: 0
 Changed opportunities: 0
 Errors: 0
 
@@ -16,7 +16,7 @@ Errors: 0
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-10-15 (10 days left)
+Deadline: 2026-10-15 (3 days left)
 Budget: Not listed on source page (NOK)
 Contact email: postmottak@fredrikstad.kommune.no
 Change status: unchanged
@@ -33,10 +33,10 @@ mailto:postmottak@fredrikstad.kommune.no?subject=Søknad på: Arena%20Fredriksta
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-11-01 (27 days left)
+Deadline: 2026-11-01 (20 days left)
 Budget: 8 491 000 NOK
 Contact email: post@afk.no
-Change status: new
+Change status: unchanged
 
 URL:
 https://www.offentligkunstoppdrag.no/utlysning/kunstkonsulent-for-rud-videregaende-skole/
@@ -50,7 +50,7 @@ mailto:post@afk.no?subject=Søknad på: Kunstkonsulent%20for%20Rud%20videreg%C3%
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2027-03-10 (156 days left)
+Deadline: 2027-03-10 (149 days left)
 Budget: Not listed on source page (NOK)
 Contact email: saskia.burleson@fjordane.fhs.no
 Change status: unchanged

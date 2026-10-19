@@ -7,33 +7,16 @@ Upcoming opportunities: 0
 Expired or completed opportunities: 14
 Possible new monitored items: 1
 New opportunities: 0
-Changed opportunities: 0
+Changed opportunities: 1
 Errors: 0
 
 ------------------------------------------------------------
-1. Arena Fredrikstad: Oppdrag for to kunstkonsulenter/kuratorer
+1. Kunstkonsulent for Rud videregående skole
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2026-10-15 (3 days left)
-Budget: Not listed on source page (NOK)
-Contact email: postmottak@fredrikstad.kommune.no
-Change status: unchanged
-
-URL:
-https://www.offentligkunstoppdrag.no/utlysning/arena-fredrikstad-oppdrag-for-to-kunstkonsulenter-kuratorer/
-
-Application URL:
-mailto:postmottak@fredrikstad.kommune.no?subject=Søknad på: Arena%20Fredrikstad%3A%20Oppdrag%20for%20to%20kunstkonsulenter%2Fkuratorer&cc=ireost@fredrikstad.kommune.no
-
-------------------------------------------------------------
-2. Kunstkonsulent for Rud videregående skole
-
-Source: KORO Oppdragsportal
-Country: Norway
-Type: Art consultant
-Deadline: 2026-11-01 (20 days left)
+Deadline: 2026-11-01 (13 days left)
 Budget: 8 491 000 NOK
 Contact email: post@afk.no
 Change status: unchanged
@@ -45,12 +28,12 @@ Application URL:
 mailto:post@afk.no?subject=Søknad på: Kunstkonsulent%20for%20Rud%20videreg%C3%A5ende%20skole&cc=synnoveoy@afk.no
 
 ------------------------------------------------------------
-3. Åpen invitasjon til kunstnaren – Meldt din interesse! Kunstprosjekt ved Fjordane folkehøgskule
+2. Åpen invitasjon til kunstnaren – Meldt din interesse! Kunstprosjekt ved Fjordane folkehøgskule
 
 Source: KORO Oppdragsportal
 Country: Norway
 Type: Art consultant
-Deadline: 2027-03-10 (149 days left)
+Deadline: 2027-03-10 (142 days left)
 Budget: Not listed on source page (NOK)
 Contact email: saskia.burleson@fjordane.fhs.no
 Change status: unchanged
@@ -60,6 +43,23 @@ https://www.offentligkunstoppdrag.no/utlysning/apen-invitasjon-til-kunstnaren-me
 
 Application URL:
 mailto:saskia.burleson@fjordane.fhs.no?subject=Søknad på: %C3%85pen%20invitasjon%20til%20kunstnaren%20%E2%80%93%20Meldt%20din%20interesse%21%20Kunstprosjekt%20ved%20Fjordane%20folkeh%C3%B8gskule
+
+------------------------------------------------------------
+3. Arena Fredrikstad: Oppdrag for to kunstkonsulenter/kuratorer
+
+Source: KORO Oppdragsportal
+Country: Norway
+Type: Art consultant
+Deadline: Not parsed (date not parsed)
+Budget: Not listed on source page (NOK)
+Contact email: postmottak@fredrikstad.kommune.no
+Change status: changed
+
+URL:
+https://www.offentligkunstoppdrag.no/utlysning/arena-fredrikstad-oppdrag-for-to-kunstkonsulenter-kuratorer/
+
+Application URL:
+mailto:postmottak@fredrikstad.kommune.no?subject=Søknad på: Arena%20Fredrikstad%3A%20Oppdrag%20for%20to%20kunstkonsulenter%2Fkuratorer&cc=ireost@fredrikstad.kommune.no
 
 ------------------------------------------------------------
 4. Kunstkonsulent for Nye Trudvang skule
